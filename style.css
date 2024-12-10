@@ -1,0 +1,37 @@
+body {
+    background-color: #E6E6FA;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+    padding: 3px;
+}
+
+tr {
+    border: 1px solid black;
+}
+
+td {
+    text-align: left;
+    padding: 6px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.table-name {
+    color: #191970;
+}
+
+.column {
+    background-color: #ADD8E6;
+}
+
+.high {
+    background-color: #ADD8E6;
+    font-family: monospace;
+}
